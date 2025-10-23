@@ -30,6 +30,8 @@ emp1.setSalary(55000);
 std::cout << emp1.getFirstName() << " earns " << emp1.getSalary() << std::endl;
 
 
+
+
 ## Question 2 – Invoice Class
 
 ### Description

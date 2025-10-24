@@ -27,19 +27,16 @@ Programming_Methodology/
 ├── A2/
 │ ├── Problem1/
 │ ├── Problem2/
-│ ├── report.pdf
 │ └── README.md
 │
 ├── A3/
 │ ├── PackageSystem/
 │ ├── TensorSystem/
-│ ├── report.pdf
 │ └── README.md
 │
 ├── A4/
 │ ├── FileIO/
 │ ├── TemplateTensor/
-│ ├── report.pdf
 │ └── README.md
 │
 └── README.md ← (This general course overview)
